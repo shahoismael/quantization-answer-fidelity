@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this software or data, please cite it as below."
-title: "compressed-ai-tutors: fidelity, confident error and inference energy under LLM compression"
+title: "quantization-answer-fidelity: fidelity, confident error and inference energy under LLM compression"
 abstract: >-
   Code and results for a study measuring answer fidelity, confident error,
   semantic entropy and measured inference energy across three open-weight
@@ -19,7 +19,7 @@ authors:
     given-names: Ahmed Abdulfatah
     orcid: "https://orcid.org/0000-0002-3054-045X"
     affiliation: "Directorate of Information Technology, Salahaddin University-Erbil, Erbil, Iraq"
-repository-code: "https://github.com/shahoismael/compressed-ai-tutors"
+repository-code: "https://github.com/shahoismael/quantization-answer-fidelity"
 license: MIT
 keywords:
   - large language models

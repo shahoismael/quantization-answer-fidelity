@@ -1,4 +1,4 @@
-# compressed-ai-tutors
+# quantization-answer-fidelity
 
 Do compressed classroom LLMs keep their answers, not just their scores?
 
