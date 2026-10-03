@@ -8,9 +8,17 @@ abstract: >-
   a school-to-expert difficulty gradient.
 type: software
 authors:
-  - family-names: Ismael
-    given-names: Shaho
-    affiliation: "Salahaddin University, Erbil"
+  - family-names: Hassen
+    given-names: Shaho Ismael
+    orcid: "https://orcid.org/0000-0002-6403-7748"
+    affiliation: "Department of Chemical and Petrochemical Engineering, College of Engineering, Salahaddin University-Erbil, Erbil, Iraq"
+  - family-names: Noori
+    given-names: Ekhlas Mohammed
+    affiliation: "Department of Software Engineering, College of Engineering, Salahaddin University-Erbil, Erbil, Iraq"
+  - family-names: Abdlrazaq
+    given-names: Ahmed Abdulfatah
+    orcid: "https://orcid.org/0000-0002-3054-045X"
+    affiliation: "Directorate of Information Technology, Salahaddin University-Erbil, Erbil, Iraq"
 repository-code: "https://github.com/shahoismael/compressed-ai-tutors"
 license: MIT
 keywords:

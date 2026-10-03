@@ -6,8 +6,18 @@
   "access_right": "open",
   "creators": [
     {
-      "name": "Ismael, Shaho",
-      "affiliation": "Salahaddin University, Erbil"
+      "name": "Hassen, Shaho Ismael",
+      "orcid": "0000-0002-6403-7748",
+      "affiliation": "Department of Chemical and Petrochemical Engineering, College of Engineering, Salahaddin University-Erbil, Erbil, Iraq"
+    },
+    {
+      "name": "Noori, Ekhlas Mohammed",
+      "affiliation": "Department of Software Engineering, College of Engineering, Salahaddin University-Erbil, Erbil, Iraq"
+    },
+    {
+      "name": "Abdlrazaq, Ahmed Abdulfatah",
+      "orcid": "0000-0002-3054-045X",
+      "affiliation": "Directorate of Information Technology, Salahaddin University-Erbil, Erbil, Iraq"
     }
   ],
   "keywords": [
