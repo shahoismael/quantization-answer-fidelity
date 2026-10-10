@@ -1,8 +1,10 @@
 # quantization-answer-fidelity
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23066002.svg)](https://doi.org/10.5281/zenodo.23066002)
+
 Do compressed classroom LLMs keep their answers, not just their scores?
 
-Three open-weight model families were quantised to 8-bit and 4-bit and run on
+Three open-weight model families were quantized to 8-bit and 4-bit and run on
 2,922 fixed items across a school-to-expert difficulty gradient, on one CPU.
 Alongside accuracy the campaign recorded answer fidelity to the uncompressed
 model, confident error under an abstention probe, semantic entropy on
@@ -98,7 +100,17 @@ CPU, no GPU, throughout.
 Code is MIT. Data, results, tables and figures are CC BY 4.0. See `LICENSE`
 and `LICENSE-DATA`; the source benchmarks keep their own terms.
 
+## Authors
+
+- **Shaho Ismael Hassen** — Department of Chemical and Petrochemical Engineering, College of Engineering, Salahaddin University-Erbil, Erbil, Iraq · [0000-0002-6403-7748](https://orcid.org/0000-0002-6403-7748)
+- **Ekhlas Mohammed Noori** — Department of Software Engineering, College of Engineering, Salahaddin University-Erbil, Erbil, Iraq · [0009-0000-8998-3741](https://orcid.org/0009-0000-8998-3741)
+- **Ahmed Abdulfatah Abdlrazaq** — Directorate of Information Technology, Salahaddin University-Erbil, Erbil, Iraq · [0000-0002-3054-045X](https://orcid.org/0000-0002-3054-045X)
+
+Corresponding author: shaho.hassen@su.edu.krd
+
 ## Citation
 
-See `CITATION.cff`. The archived release carries a DOI; the manuscript is
-under review.
+See `CITATION.cff`. The manuscript is under review.
+
+Archived release (this version): https://doi.org/10.5281/zenodo.23194270
+All versions: https://doi.org/10.5281/zenodo.23066002

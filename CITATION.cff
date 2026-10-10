@@ -4,7 +4,7 @@ title: "quantization-answer-fidelity: fidelity, confident error and inference en
 abstract: >-
   Code and results for a study measuring answer fidelity, confident error,
   semantic entropy and measured inference energy across three open-weight
-  model families at three quantisation levels, on 2,922 fixed items spanning
+  model families at three quantization levels, on 2,922 fixed items spanning
   a school-to-expert difficulty gradient.
 type: software
 authors:
@@ -14,6 +14,7 @@ authors:
     affiliation: "Department of Chemical and Petrochemical Engineering, College of Engineering, Salahaddin University-Erbil, Erbil, Iraq"
   - family-names: Noori
     given-names: Ekhlas Mohammed
+    orcid: "https://orcid.org/0009-0000-8998-3741"
     affiliation: "Department of Software Engineering, College of Engineering, Salahaddin University-Erbil, Erbil, Iraq"
   - family-names: Abdlrazaq
     given-names: Ahmed Abdulfatah
@@ -23,7 +24,7 @@ repository-code: "https://github.com/shahoismael/quantization-answer-fidelity"
 license: MIT
 keywords:
   - large language models
-  - quantisation
+  - quantization
   - Green AI
   - automated assessment
   - semantic entropy

@@ -11,3 +11,4 @@ entailment_cache*.json
 
 # raw HWiNFO logs live in the Zenodo archive, not here
 *.CSV
+RELEASE_NOTES_*.md

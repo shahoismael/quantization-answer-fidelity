@@ -1,6 +1,6 @@
 {
   "title": "quantization-answer-fidelity: fidelity, confident error and inference energy under LLM compression",
-  "description": "<p>Code and results for a study measuring answer fidelity, confident error, semantic entropy and measured inference energy across three open-weight model families at three quantisation levels. 2,922 fixed items across a school-to-expert difficulty gradient, 53,298 inferences on a single CPU. Accuracy changed by at most 2.8 percentage points and never significantly, while 5.7 to 20.3 per cent of individual answers changed at 4-bit. None of the eighteen compressed configurations satisfied a deployability rule fixed before any model ran.</p><p>No benchmark item text is redistributed; the item manifest carries identifiers only.</p>",
+  "description": "<p>Code and results for a study measuring answer fidelity, confident error, semantic entropy and measured inference energy across three open-weight model families at three quantization levels. 2,922 fixed items across a school-to-expert difficulty gradient, 53,298 inferences on a single CPU. Accuracy changed by at most 2.8 percentage points and never significantly, while 5.7 to 20.3 per cent of individual answers changed at 4-bit. None of the eighteen compressed configurations satisfied a deployability rule fixed before any model ran; one qualified under a non-inferiority reading of the confident-error criterion.</p><p>No benchmark item text is redistributed; the item manifest carries identifiers only.</p>",
   "upload_type": "software",
   "license": "mit",
   "access_right": "open",
@@ -12,6 +12,7 @@
     },
     {
       "name": "Noori, Ekhlas Mohammed",
+      "orcid": "0009-0000-8998-3741",
       "affiliation": "Department of Software Engineering, College of Engineering, Salahaddin University-Erbil, Erbil, Iraq"
     },
     {
@@ -22,7 +23,7 @@
   ],
   "keywords": [
     "large language models",
-    "quantisation",
+    "quantization",
     "Green AI",
     "automated assessment",
     "semantic entropy",
